@@ -1,3 +1,4 @@
+![Alessio's Pizzaria](capa-alessios-pizzaria.png)
 # 🍕 Alessio's Pizzaria
 
 ### Projeto de desenvolvimento web para uma pizzaria
